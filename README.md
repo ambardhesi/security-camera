@@ -1,4 +1,4 @@
-security-camera
+#security-camera
 
 A security camera(face recognizer and motion detector) for the Raspberry Pi.
 
